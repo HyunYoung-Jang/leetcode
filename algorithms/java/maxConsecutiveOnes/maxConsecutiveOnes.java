@@ -17,6 +17,10 @@
  * 	Reset currentMax to 0 if n = 0
  * 	Otherwise increase currentMax by 1
  * 	Compare between currentMax and max using Math.max and keep larger value
+ *
+ * Runtime / Memory usage:
+ * 	3 ms, faster than 49.95% of Java online submissions for Max Consecutive Ones.
+ *	57.3 MB, less than 6.67% of Java online submissions for Max Consecutive Ones.
 */
 
 class Solution {
